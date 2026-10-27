@@ -1,0 +1,43 @@
+TEXTURES GATHERPROF — MODE D'EMPLOI
+====================================
+
+Ce dossier contient les 28 textures de l'interface du plugin GatherProf.
+
+CONTENU
+-------
+fenetre/   panel, hud, section, shell  -> fond et cadres de la fenetre
+coins/     tl, tr, bl, br              -> les 4 coins decoratifs
+cartes/    normal, hover, selected,    -> fonds des cartes de talent
+           disabled
+boutons/   acier_*, noir_*, orange_*   -> plaques d'onglets et de boutons
+icones/    heli                        -> icone decorative
+textures/  rust, wood, metal           -> fonds sans couture
+
+
+CE QU'IL FAUT FAIRE
+-------------------
+1. Decompresser ce dossier.
+
+2. Creer un depot GitHub PUBLIC
+   github.com  ->  New repository  ->  nom au choix  ->  Public  ->  Create
+
+3. Sur la page du depot :  Add file  ->  Upload files
+
+4. Glisser TOUT LE CONTENU de ce dossier
+   (les sous-dossiers ET ce fichier LISEZMOI.txt)
+   Ne pas glisser le ZIP lui-meme.
+
+5. Commit changes
+
+6. Envoyer l'adresse du depot au developpeur, par exemple :
+   https://github.com/ton-pseudo/rust-textures
+
+Le plugin construira les liens de chaque image a partir de cette adresse.
+
+
+POURQUOI GITHUB
+---------------
+- un seul envoi pour tout le dossier
+- l'arborescence reste propre
+- les liens ne meurent jamais
+- c'est le meme compte que pour uMod
