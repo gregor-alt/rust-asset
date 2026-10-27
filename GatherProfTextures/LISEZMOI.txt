@@ -1,0 +1,5 @@
+TEXTURES GATHERPROF
+===================
+
+Decompresser, puis uploader TOUT LE CONTENU sur un depot GitHub public.
+Ensuite envoyer l'adresse du depot au developpeur.
